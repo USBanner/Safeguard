@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"da5f2c172f6c94fc3ec09cccb70fc5e2","lockfileHash":"413cb0c61a920107ddd606294c6ff485","guessedImports":["fs","soundcloud.ts","@discordjs/voice","dotenv","i18n","date-fns","youtubei","prism-media","got","discord.js","play-dl"],"guessedImportsHash":"cc9ca6974ef0bbe0da057aae80290e25"}}}
